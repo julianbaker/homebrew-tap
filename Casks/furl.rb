@@ -1,6 +1,6 @@
 cask "furl" do
-  version "1.0.0"
-  sha256 "7156452ea4f9d52b6acb454ad20f467696c3fe1d29575f24a8d3f78a12058c5a" # updated by Furl's release pipeline
+  version "1.0.1"
+  sha256 "82fd0a956b45218d40090c9f1a8300a276776e81fd21e39faa35e43ce2cc222b" # updated by Furl's release pipeline
 
   url "https://github.com/julianbaker/Furl/releases/download/v#{version}/Furl-#{version}.zip"
   name "Furl"
